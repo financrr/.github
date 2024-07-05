@@ -1,3 +1,3 @@
-# financrr — Know your money
+# jt-foss
 
-![banner_light_bg](https://github.com/financrr/financrr-app/blob/main/resources/Logo/banner_light_bg.png)
+Hey 👋 We're Jason & Timon (hence 'jt') and we're making software that enhances our daily lifes
